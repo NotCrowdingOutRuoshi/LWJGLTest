@@ -8,6 +8,7 @@ Dependency
 ----
 Use eclipse of course. All dependency libs are all include in the project.
 All you need to do is just change location of native libraries for your OS to lib/native/<your os>.
+![](https://github.com/NotCrowdingOutRuoshi/LWJGLTest/raw/master/dependency.png)
 
 Run
 ----
